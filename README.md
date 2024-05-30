@@ -1,1 +1,1 @@
-Some solutions to problems in leetcode, all this solutions are created by me.
+Some leetcode problems that I solved.
